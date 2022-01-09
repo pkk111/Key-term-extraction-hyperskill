@@ -1,0 +1,9 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: from lxml import etree
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9490#comment
+status: Solved
+record: -1
